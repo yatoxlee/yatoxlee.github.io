@@ -8,6 +8,12 @@ This could be a record of my learning experience.
 
 I think I wasted a lot of time. 
 
-I'm a person who should be alone and make something advanced by myself. 
+I should pick up a pure way for my postgraduate.
+
+Either following my supervisor to be a experiment worker, either pick up the Computer Science.
+
+I can't tell whether I belong to the CS world, but I can tell I don't belong to this Physics world.
+
+And I realized I'm a person who should be alone and make something advanced by myself. 
 
 Too much listening will destory my logic, which is a cruel fact for me.
