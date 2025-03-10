@@ -4,6 +4,15 @@ I put my experience of learning computer science here for my convience and commu
 This could be a record of my learning experience.
 
 ---
+11/3/25
+
+在神经网络中，每个神经元接收来自上一层神经元的输入，并将这些输入进行加权求和，然后加上一个偏置项。这个结果被称为神经元的“激活前”值。激活函数的作用就是对这个“激活前”值进行非线性变换，得到神经元的最终输出。
+
+更具体地说，激活函数是一个数学函数，它接受一个实数作为输入，并返回另一个实数作为输出。这个输出决定了神经元是否被“激活”，以及激活的强度。
+
+以ReLU为例，如果神经元的logit是<0的，那么这个神经元就“不被激活”；反之，如果这个神经元的logit大于0，那么这个神经元就被激活，提供一个非零的值。。
+
+---
 10/3/25
 
 Since I'm making trasition from Physics to CS, a schedule is needed.
