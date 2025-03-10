@@ -22,7 +22,7 @@ Keep away from the targets like IELTS, etc.
 
 - [ ] finish studying learnpytorch.io in a month.
 - [ ] After that, be able to read CS papers.
-- [ ] 
+- [ ] raise Unimplementederror
 
 ---
 7/3/25
