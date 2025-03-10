@@ -4,6 +4,15 @@ I put my experience of learning computer science here for my convience and commu
 This could be a record of my learning experience.
 
 ---
+10/3/25
+
+Since I'm making trasition from Physics to CS, a schedule is needed.
+
+from the latest half year to the next five years.
+
+Maybe it is a kind of way to develop logic of myself.
+
+---
 7/3/25
 
 I think I wasted a lot of time. 
