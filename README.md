@@ -10,7 +10,19 @@ Since I'm making trasition from Physics to CS, a schedule is needed.
 
 from the latest half year to the next five years.
 
-Maybe it is a kind of way to develop logic of myself.
+Maybe it is a kind of way to develop the logic of myself.
+
+Besides, it seems unable to find out a interdisciplinary between Physics and CS. 
+So I thought maybe I should focus on CS for a period.
+Then I can think about what to do with Physics with CS.
+
+Some targets at this moment. 
+Please focus on the targets concerned with CS here.
+Keep away from the targets like IELTS, etc.
+
+- [ ] finish studying learnpytorch.io in a month.
+- [ ] After that, be able to read CS papers.
+- [ ] 
 
 ---
 7/3/25
