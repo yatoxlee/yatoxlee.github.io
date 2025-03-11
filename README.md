@@ -6,6 +6,19 @@ This could be a record of my learning experience.
 ---
 11/3/25
 
+- [ ] 如果要转向CS，如何获取一个博士机会？
+- [ ] 如何平衡找Ph.D机会和学习CS之间的关系？
+- [ ] 是否应该先找份工作再寻找Ph.D机会？
+
+10/3/25
+- [ ] finish studying learnpytorch.io in a month.
+- [ ] After that, be able to read CS papers.
+- [ ] raise Unimplementederror
+
+---
+11/3/25
+About activation function
+
 在神经网络中，每个神经元接收来自上一层神经元的输入，并将这些输入进行加权求和，然后加上一个偏置项。这个结果被称为神经元的“激活前”值。激活函数的作用就是对这个“激活前”值进行非线性变换，得到神经元的最终输出。
 
 更具体地说，激活函数是一个数学函数，它接受一个实数作为输入，并返回另一个实数作为输出。这个输出决定了神经元是否被“激活”，以及激活的强度。
@@ -28,10 +41,6 @@ Then I can think about what to do with Physics with CS.
 Some targets at this moment. 
 Please focus on the targets concerned with CS here.
 Keep away from the targets like IELTS, etc.
-
-- [ ] finish studying learnpytorch.io in a month.
-- [ ] After that, be able to read CS papers.
-- [ ] raise Unimplementederror
 
 ---
 7/3/25
