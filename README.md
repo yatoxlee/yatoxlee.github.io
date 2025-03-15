@@ -28,6 +28,13 @@ I found that the internship that I can apply for is related to data analysis, wh
 
 The internship of data analysis requires excel, python and tableau. I wanna apply for the internships so I gonna pause my process of learning pytorch for a while.
 
+For Tableau:
+
+I've learnt some basic operations through a video in youtube. Tableau for D. science and D. visualization. Here.[http://youtube.com/watch?v=TPMlZxRRaBQ]
+
+This video is organized in a loose way. But I learnt some basic operations.
+
+
 3/11/25
 About activation function
 
