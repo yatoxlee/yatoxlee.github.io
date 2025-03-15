@@ -8,6 +8,7 @@ This could be a record of my learning experience.
 - [ ] How long does it take to learn hsql?
 - [ ] How long does it take to learn tableau?
 - [ ] I need a new resume.
+- [ ] IELTS is supposed to be scheduled.
 
 3/11/25
 
@@ -18,7 +19,6 @@ This could be a record of my learning experience.
 3/10/25
 - [ ] finish studying learnpytorch.io in a month.
 - [ ] After that, be able to read CS papers.
-- [ ] raise Unimplementederror
 
 ---
 3/16/25
