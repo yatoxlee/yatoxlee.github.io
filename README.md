@@ -7,7 +7,7 @@ This could be a record of my learning experience.
 3/16/25
 - [ ] How long does it take to learn hsql?
 - [ ] How long does it take to learn tableau?
-- [ ] I need a new resume.
+- [x] I need a new resume.
 - [ ] IELTS is supposed to be scheduled.
 
 3/11/25
