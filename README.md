@@ -6,7 +6,7 @@ This could be a record of my learning experience.
 ---
 3/16/25
 - [ ] How long does it take to learn hsql?
-- [ ] How long does it take to learn tableau?
+- [x] How long does it take to learn tableau?
 - [x] I need a new resume.
 - [ ] IELTS is supposed to be scheduled.
 
@@ -22,7 +22,7 @@ This could be a record of my learning experience.
 
 ---
 3/16/25
-I took a look at of the internships of bili, but I found that I can't apply for most of them because they required students majored in computer science.
+I took a look at the internships of bili, but I found that I can't apply for most of them because they required students majored in computer science.
 
 I found that the internship that I can apply for is related to data analysis, which didn't mention Phys. are wanted in specific.
 
@@ -74,3 +74,11 @@ I can't tell whether I belong to the CS world, but I can tell I don't belong to 
 And I realized I'm a person who should be alone and make something advanced by myself, to polish a jade until it's perfect. 
 
 Too much listening will destory my logic, which is a cruel fact for me.
+
+4/10/25
+
+因为最近先被Oppo毙掉了，感觉简历上没有什么和数分相关的东西，所以最近先做了个Tableau看板。
+
+空闲时间看了一下数分的面经，感觉自己差的还有点远。对于处理数据，数据清洗，各种衡量数据质量和数据分类的指标一窍不通。
+
+感觉还是有一些可能找不到数分的实习。但是我就好好准备吧，先补足一些数分的知识，尽量准备。
